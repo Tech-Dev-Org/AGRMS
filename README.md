@@ -1,7 +1,8 @@
-# AGRMS
-
-## Automatic Generated Report Mailing System
-Basic UI
+AGRMS
+-----
+### Automatic Generated Report Mailing System
+User will enter Receiver mail id and csv file then click on send button then script automatic generate report in pdf format and sent to receiver.
+#### Basic UI
 ![Alt UI](https://github.com/imshubh17/Projects/blob/master/images/reportsenddashboard.PNG?raw=true "UI")
 
 ### Resources
